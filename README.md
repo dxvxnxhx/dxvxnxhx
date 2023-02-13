@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning the various programming languages including C, C++, Python, Java and JavaScript.
 - 💞️ I’m looking to collaborate on projects/repositiories inclusive of the same, so as to enhance my learnng, gain confidence through my experiences and help my fellow community members.
 - 📫 How to reach me:
-     Twitter username: @dxvxnxhx 
      E-mail: devanshisahux@gmail.com
 
 <!---
